@@ -1,0 +1,2 @@
+Valores antes da troca: numero1 = 13, numero2 = 2
+Valores depois da troca: numero1 = 2, numero2 = 13

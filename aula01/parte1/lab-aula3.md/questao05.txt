@@ -1,0 +1,2 @@
+area: 28.27
+perimetro: 18.85
